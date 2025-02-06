@@ -4,28 +4,29 @@ const features = [
   {
     name: 'Hospitality',
     description:
-      'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
+      'Providing tailored solutions for hotels, resorts, and event spaces to ensure a clean, welcoming, and comfortable environment for guests.',
     icon: CloudArrowUpIcon,
   },
   {
     name: 'Commercial',
     description:
-      'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
+      'Comprehensive services designed to maintain office buildings, corporate spaces, and industrial facilities, ensuring a safe and efficient workplace.',
     icon: LockClosedIcon,
   },
   {
     name: 'Retail establishments',
     description:
-      'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
+      'Creating spotless, well-maintained spaces for retail stores and shopping centers to enhance customer experience and boost brand perception.',
     icon: ArrowPathIcon,
   },
   {
     name: 'Advanced security',
     description:
-      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+      'Integrating advanced security measures to safeguard premises, assets, and personnel, offering peace of mind and enhanced protection.',
     icon: FingerPrintIcon,
-  },
-]
+  }
+];
+
 
 export default function Example() {
   return (
